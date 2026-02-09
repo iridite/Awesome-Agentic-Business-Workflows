@@ -26,7 +26,7 @@ jobs:
       - name: Run Sniffer Script
         working-directory: ./hotspot-sniffer
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
           uv sync
           uv run main.py
