@@ -1,5 +1,9 @@
-# Awesome Agentic Workflows
-> **少谈口号，多做流程。** 全球首个专注于“可落地的 AI 代理商业工作流”百科。
+# Awesome-Agentic-Business-Workflows
+
+> 专注于将 AI Agents 转化为实际生产力的垂直商业工作流百科。
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)
 
 ---
 
