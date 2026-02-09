@@ -27,9 +27,27 @@
 ## 🚀 今日自动化发现 / Automated Insights
 <!-- START_HOTSPOT -->
 
-### 🕒 Trend Sniffed at 2026-02-09 09:04
+### 🕒 Trend Sniffed at 2026-02-09 09:12
 
-❌ AI Reasoning Failed: (unauthorized) The `models` permission is required to access this endpoint
+⚙️ | **google/langextract** | 商业化潜力: 9/10  
+- 核心卖点：通过 LLM 提取结构化信息并提供可视化，极大提升企业数据处理效率。  
+- 传送门：[https://github.com/google/langextract](https://github.com/google/langextract)  
+
+🧠 | **OpenBMB/MiniCPM-o** | 商业化潜力: 8/10  
+- 核心卖点：支持多模态实时流媒体交互，适配移动端，填补轻量级多模态市场空白。  
+- 传送门：[https://github.com/OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)  
+
+🛍️ | **hsliuping/TradingAgents-CN** | 商业化潜力: 8/10  
+- 核心卖点：专注中文金融交易，结合多智能体 LLM，提供高效自动化交易解决方案。  
+- 传送门：[https://github.com/hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)  
+
+⚙️ | **chenyme/grok2api** | 商业化潜力: 9/10  
+- 核心卖点：全栈式 API 框架，支持多任务并发与负载均衡，适配最新 AI 应用场景。  
+- 传送门：[https://github.com/chenyme/grok2api](https://github.com/chenyme/grok2api)  
+
+🧠 | **resemble-ai/chatterbox** | 商业化潜力: 7/10  
+- 核心卖点：开源 SoTA 语音合成技术，适合语音助手与内容创作领域的深度应用。  
+- 传送门：[https://github.com/resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 
 <!-- END_HOTSPOT -->
 
