@@ -1,6 +1,5 @@
 # Awesome-Agentic-Business-Workflows
 
-# Awesome Agentic Business Workflows 
 > 专注于将 AI Agents 转化为实际生产力的垂直商业工作流百科。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
